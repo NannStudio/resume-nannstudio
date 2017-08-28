@@ -17,5 +17,5 @@ after_success:
 - firebase use --add ${PROJECT_ID} # set current project
 - firebase deploy --non-interactive --token "${FIREBASE_TOKEN}" # deploy project
 group: stable
-dist: trusty
+dist: precise
 os: linux
