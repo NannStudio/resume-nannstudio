@@ -9,7 +9,7 @@ var filesToCache = [
   '/assets/vendor/normalize/7.0.0/css/normalize.min.css',
   '/assets/vendor/bootstrap/3.3.7/css/bootstrap.min.css',
   '/assets/vendor/animate/3.5.2/css/animate.min.css',
-  '/assets/vendor/animate/3.5.2/css/mousescroll.min.css',
+  '/assets/css/mousescroll.min.css',
   '/assets/css/custom.min.css',
   '/assets/img/profile-512x512.png'
 ];
